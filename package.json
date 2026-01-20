@@ -1,6 +1,6 @@
 {
   "name": "cryptowallet-cli",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "description": "cw \u2014 a crypto wallet generator CLI tool for a lot of blockchains: Bitcoin, Ethereum, Base, Solana, SUI, TON, any EVM (L1/L2/L3) and many others",
   "main": "src/index.js",
   "scripts": {
